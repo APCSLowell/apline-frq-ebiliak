@@ -8,8 +8,8 @@ private int a, b, c;
   }
     
   public double getSlope(int jo, int bo){
-                  jo = al;
-    bo = al;
+                  jo = -a1;
+    bo = bl;
     return getSlope(jo/bo);
       } 
   private boolean isOnLine(int d, int l){
