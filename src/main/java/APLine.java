@@ -10,11 +10,11 @@ private int a, b, c;
   public getSlope(int jo, bo){
                   jo = al;
     bo = al;
-    return getSlope(jo/bo)
+    return getSlope(jo/bo);
       } 
   private isOnLine(int d, l){
                    if((a(d) +d (l) + c) ==0){
-                     retrun true;
+                     return true;
                    }
     return false;
   }
