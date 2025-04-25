@@ -7,12 +7,12 @@ private int a, b, c;
     c = c1;
   }
     
-  public double getSlope(int jo, bo){
+  public double getSlope(int jo, int bo){
                   jo = al;
     bo = al;
     return getSlope(jo/bo);
       } 
-  private boolean isOnLine(int d, l){
+  private boolean isOnLine(int d, int l){
                    if((a(d) +d (l) + c) ==0){
                      return true;
                    }
